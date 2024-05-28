@@ -21,3 +21,15 @@ c:\Users\leand\Desktop\examenp\examen\TestDemo\obj\Debug\net8.0\TestDemo.dll
 c:\Users\leand\Desktop\examenp\examen\TestDemo\obj\Debug\net8.0\refint\TestDemo.dll
 c:\Users\leand\Desktop\examenp\examen\TestDemo\obj\Debug\net8.0\TestDemo.pdb
 c:\Users\leand\Desktop\examenp\examen\TestDemo\obj\Debug\net8.0\ref\TestDemo.dll
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\bin\Debug\net8.0\TestDemo.deps.json
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\bin\Debug\net8.0\TestDemo.dll
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\bin\Debug\net8.0\TestDemo.pdb
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.AssemblyInfoInputs.cache
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.AssemblyInfo.cs
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.csproj.CoreCompileInputs.cache
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.sourcelink.json
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.dll
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\refint\TestDemo.dll
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\TestDemo.pdb
+c:\Users\leand\Desktop\evaluacion\final\TestDemo\obj\Debug\net8.0\ref\TestDemo.dll
